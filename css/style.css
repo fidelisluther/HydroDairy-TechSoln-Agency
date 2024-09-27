@@ -1118,9 +1118,11 @@ ul.social_icon li a:hover {
 }
 .header-top {
      background: url(../images/banner\ 01.png);
-     background-size: 100% 100%;
+     background-size: cover;
      background-repeat: no-repeat;
      padding-bottom: 90px;
+     height: 100vh;
+     width: 100%;
 }
 .header {
      position: absolute;
